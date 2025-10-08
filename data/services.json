@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Consultoría en Transformación Digital",
+    "descripcion": "Asesoría integral para implementar soluciones digitales en tu empresa.",
+    "precio": 1200000,
+    "cantidad": 10,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "nombre": "Soporte Técnico Remoto 24/7",
+    "descripcion": "Atención inmediata para resolver incidentes técnicos en cualquier momento.",
+    "precio": 450000,
+    "cantidad": 999,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Desarrollo de Aplicaciones Web",
+    "descripcion": "Aplicaciones a la medida para optimizar procesos internos y externos.",
+    "precio": 3500000,
+    "cantidad": 5,
+    "promo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Implementación de Infraestructura en la Nube",
+    "descripcion": "Migración y configuración de servidores seguros en la nube.",
+    "precio": 2800000,
+    "cantidad": 7,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "nombre": "Ciberseguridad Empresarial",
+    "descripcion": "Protección avanzada contra amenazas, firewalls y auditoría de seguridad.",
+    "precio": 2000000,
+    "cantidad": 6,
+    "promo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Gestión de Redes y Comunicaciones",
+    "descripcion": "Configuración y monitoreo de redes empresariales seguras y eficientes.",
+    "precio": 1100000,
+    "cantidad": 8,
+    "promo": false
+  },
+  {
+    "id": 7,
+    "nombre": "Diseño y Desarrollo de Páginas Web Corporativas",
+    "descripcion": "Sitios web profesionales y responsivos para tu negocio.",
+    "precio": 2200000,
+    "cantidad": 4,
+    "promo": false
+  },
+  {
+    "id": 8,
+    "nombre": "Capacitación en Herramientas Digitales",
+    "descripcion": "Cursos personalizados en ofimática, colaboración en la nube y productividad.",
+    "precio": 600000,
+    "cantidad": 20,
+    "promo": false
+  },
+  {
+    "id": 9,
+    "nombre": "Outsourcing de TI (Administración de sistemas)",
+    "descripcion": "Delegación de la gestión tecnológica a expertos.",
+    "precio": 1800000,
+    "cantidad": 3,
+    "promo": false
+  },
+  {
+    "id": 10,
+    "nombre": "Monitoreo y Respaldo de Datos",
+    "descripcion": "Sistemas automáticos de backup y recuperación ante desastres.",
+    "precio": 900000,
+    "cantidad": 15,
+    "promo": false
+  }
+]
